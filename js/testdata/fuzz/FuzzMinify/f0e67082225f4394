@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("class A{A0(){return \xd00 0}}")

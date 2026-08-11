@@ -1,0 +1,10 @@
+# Go coverage artifacts (GOCOVERDIR output)
+covcounters.*
+covmeta.*
+*.out
+
+# tool session data
+.omo/
+
+# codegraph index symlink
+.codegraph

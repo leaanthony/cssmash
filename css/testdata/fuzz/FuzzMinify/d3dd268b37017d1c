@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("{font:0 -A(")
