@@ -179,6 +179,20 @@ Two inherited behaviours are knowingly kept:
   separately refuses to fuse adjacent selector tokens of its own accord
   (`fusesWith`).
 
+## Contributing
+
+### Bug Reporting
+
+Create a PR with test cases to reproduce the issue.
+
+### Bug Fixing
+
+Create a PR with a fix to an existing or new test.
+
+### Performance
+
+Create a PR with a benchmark test and a fix. Provide before/after numbers.
+
 ## Testing
 
 ```sh
